@@ -1,7 +1,10 @@
 # shoreline-client
-![image](https://github.com/user-attachments/assets/959bbec3-eaef-4b8c-acd5-05364b0c2de1)
-SHOUTOUT THE RUSSIANS FOR THE 5K DEAL LOLOLOL
 
+LATEST SHORELINE UNOBF BETA IN RELEASES MAKE BUILDABLE IF U WANT
+
+
+![image](https://github.com/user-attachments/assets/959bbec3-eaef-4b8c-acd5-05364b0c2de1)
+SHOUTOUT THE RUSSIANS FOR THE 5K DEAL LOLOLO
 
 
 ![image](https://github.com/user-attachments/assets/a6d1ceec-c8f7-4e03-a967-14c54b42765d)
