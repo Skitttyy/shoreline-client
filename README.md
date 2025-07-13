@@ -1,6 +1,6 @@
 # shoreline-client
 
-LATEST SHORELINE UNOBF BETA IN RELEASES MAKE BUILDABLE IF U WANT
+LATEST SHORELINE UNOBF BETA (05/31/2025 19:41) IN RELEASES MAKE BUILDABLE IF U WANT
 
 
 ![image](https://github.com/user-attachments/assets/959bbec3-eaef-4b8c-acd5-05364b0c2de1)
